@@ -1,0 +1,26 @@
+{
+  "genere_le": "2026-11-21",
+  "source": "Demandes de valeurs foncières géolocalisées (Etalab, data.gouv.fr)",
+  "annees": [
+    2023,
+    2024,
+    2025
+  ],
+  "derniere_vente": "2025-12-31",
+  "lignes_brutes": 1325104,
+  "mutations": 523814,
+  "ventes_un_logement": 359993,
+  "ventes_retenues": 355645,
+  "communes_publiees": 1138,
+  "regles": {
+    "surface_m2": [
+      9,
+      400
+    ],
+    "prix_m2": [
+      500,
+      30000
+    ],
+    "min_ventes": 5
+  }
+}
